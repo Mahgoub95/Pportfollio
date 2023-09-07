@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: #414040;
+}
+
+.center{
+    width: 30%;
+    height: 75vh;
+    padding: 40px;
+    margin: 10px;
+    background-color: #fff;
+    color: rgba(2, 120, 255, 0.795);
+    border-radius: 40px;
+}
+
+.prcntg{
+    background-color: blue;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.lang{
+    margin-left: 215px;
+}
